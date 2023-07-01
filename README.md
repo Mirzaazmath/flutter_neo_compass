@@ -4,6 +4,20 @@ A new Flutter project.
 
 ## Getting Started
 
+# ScreenShot1
+
+<img src="https://github.com/Mirzaazmath/flutter_neo_compass/blob/main/assets/Screenshot1.png" height="400">
+
+
+# ScreenShot2
+
+<img src="https://github.com/Mirzaazmath/flutter_neo_compass/blob/main/assets/Screenshot2.png" height="400">
+
+
+# Result 
+
+<img src ="https://github.com/Mirzaazmath/flutter_neo_compass/blob/main/assets/result.gif" heigth="400">
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
